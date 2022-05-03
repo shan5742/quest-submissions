@@ -1,4 +1,4 @@
-# Day 1
+# Chapter 1
 
 ### 1. Explain what the Blockchain is in your own words. 
 
